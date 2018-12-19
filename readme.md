@@ -14,8 +14,8 @@
  * sidebar
  * etc
 
-## Animations
+## Animation Classes
  * FadeIn
  * FadeInUp
  * FadeInDown
- * etc
+ * ...
